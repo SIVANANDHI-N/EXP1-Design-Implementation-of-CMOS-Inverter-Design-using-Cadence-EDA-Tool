@@ -31,6 +31,8 @@ i)	Procedure for Creating New Library.
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
+![WhatsApp Image 2024-09-25 at 15 54 56_0bc5803c](https://github.com/user-attachments/assets/cb576723-a428-4b3f-99bd-e7f24e7ae84b)
+
 ii)	Create Schematic Cell view.
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
@@ -63,8 +65,9 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![WhatsApp Image 2024-09-25 at 15 54 57_2be97dd0](https://github.com/user-attachments/assets/fd120982-fafe-4b40-9ca8-58012f32ac7a)
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+ 
 
 
 iv)	Creating the new test cell view
@@ -76,7 +79,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![WhatsApp Image 2024-09-25 at 15 54 59_420744fe](https://github.com/user-attachments/assets/dff23d6a-f24f-405a-aea4-65fbda73bf8f)
+
 
 
  
@@ -90,19 +94,23 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+ ![WhatsApp Image 2024-09-25 at 16 03 29_ab6df06a](https://github.com/user-attachments/assets/6a15719c-7a02-4e00-9a94-ff661667805f)
+
 
 For Transient Analysis Settings and Output
- 
- 
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![image](https://github.com/user-attachments/assets/89a9dae4-4043-429e-9509-7e94c175cef9)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ 
+ ![image](https://github.com/user-attachments/assets/dcd73ecc-56f2-4589-a227-a8c4210cf7c4)
+
+
+ 
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![image](https://github.com/user-attachments/assets/2d265a80-fedc-48e4-8d9a-84c5723d5a8a)
+
 
  
 
